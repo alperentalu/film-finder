@@ -1,1 +1,1 @@
-# film-finder
+Projenin zip halini indirdikten sonra projeyi derleyicide açıp daha sonra terminal ekranından projenin olduğu dizinde sırasıyla  npm install ve npm start komutlarını çalıştırabilirsiniz.
